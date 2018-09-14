@@ -1,2 +1,6 @@
 # stromberg-spruch-api
-Wie der Titel sagt... Stromberg's Sprüche. Jetzt online verfügbar
+![stromberg](https://github.com/KneeNinetySeven/stromberg-spruch-api/raw/master/img/bernd-stromberg.jpg)
+**Wie der Titel sagt... Stromberg's Sprüche. Jetzt online verfügbar**
+
+## Wo finde ich das denn? 
+![stromberg-wo](https://github.com/KneeNinetySeven/stromberg-spruch-api/raw/master/img/stromberg-wo.jpg)
