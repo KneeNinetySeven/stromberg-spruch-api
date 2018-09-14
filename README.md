@@ -1,4 +1,4 @@
-# stromberg-spruch-api
+# Dem Papa seine API
 ![stromberg](https://github.com/KneeNinetySeven/stromberg-spruch-api/raw/master/img/bernd-stromberg.jpg)
 
 
