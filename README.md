@@ -14,7 +14,14 @@
 `stromberg.code-madness.de/v1/spruch/<id>` => Der Spruch mit der ID <id>
   
   Response: 
-  `{
-    "spruch": "Meister, ich weiß nicht, wie Sie damals in der Ostzone gekocht haben – aber mit dem Nazi-Ton kommen Sie hier nicht weit! ",
-    "_id": 20
-  }`
+  
+  ```json
+  
+  {
+  
+     "spruch": "Man muß den Kunden schmieden, so lange er noch heiß ist. ", 
+     
+     "_id": 27
+     
+  }
+  
