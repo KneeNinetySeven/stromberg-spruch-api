@@ -16,12 +16,9 @@
   Response: 
   
   ```json
-  
   {
-  
      "spruch": "Man muß den Kunden schmieden, so lange er noch heiß ist. ", 
-     
      "_id": 27
-     
   }
-  
+  ```
+![ihre-Capitol](https://github.com/KneeNinetySeven/stromberg-spruch-api/raw/master/img/capitol.jpg)
