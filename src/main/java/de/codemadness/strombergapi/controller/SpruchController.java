@@ -18,12 +18,12 @@ public class SpruchController {
         this.spruchService = spruchService;
     }
 
-    @GetMapping("/v1/random")
+    @GetMapping(path = "/v1/random", produces = "application/json;charset=UTF-8")
     public ResponseEntity<Spruch> getRandomSpruch() {
         return ResponseEntity.ok(spruchService.getRandomSpruch());
     }
 
-    @GetMapping("/v1/spruch/{id}")
+    @GetMapping(path = "/v1/spruch/{id}", produces = "application/json;charset=UTF-8")
     public ResponseEntity<Spruch> getSpruch(@PathVariable Integer id) {
         Spruch spruchWithId = spruchService.getWithId(id);
         return spruchWithId == null ? ResponseEntity.notFound().build() : ResponseEntity.ok(spruchWithId);
